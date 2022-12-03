@@ -1,15 +1,18 @@
 # Teste de Software
 
-**_Framework :_**
-- [x] Selenium
-
-<h6> av2 - *Professor: Clayton Chagas* <h6>
-
 ## Objetivo
 Implementar testes para tela de login e cadastro de produtos.
 
-Todas as implementações devem seguir as boas práticas de programação e organização de projetos. Somente um aluno do grupo deve postar no Moodle o link para o projeto solução do GitHub
+Todas as implementações devem seguir as boas práticas de programação e organização de projetos. Somente um aluno do grupo deve postar no Moodle o link para o projeto solução do GitHub.
 
+**_Framework :_**
+- [x] Selenium
+
+*Professor: [Clayton Chagas](https://github.com/claytonchagas)* 
+
+[projeto base](https://github.com/claytonchagas/selenium-lab)
+
+[planilha de Casos de Testes](https://docs.google.com/spreadsheets/d/1z8nf4MTDinXIJd4r8ovV1cS5y6ejlRZBLiDllo1FpNg/edit#gid=1453773308)
 
 
 <table>
